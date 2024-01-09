@@ -1,0 +1,15 @@
+/home/as_abrorov/RiderProjects/RealTimeFileManagement/RealTimeFileManagement/bin/Debug/net8.0/RealTimeFileManagement
+/home/as_abrorov/RiderProjects/RealTimeFileManagement/RealTimeFileManagement/bin/Debug/net8.0/RealTimeFileManagement.deps.json
+/home/as_abrorov/RiderProjects/RealTimeFileManagement/RealTimeFileManagement/bin/Debug/net8.0/RealTimeFileManagement.runtimeconfig.json
+/home/as_abrorov/RiderProjects/RealTimeFileManagement/RealTimeFileManagement/bin/Debug/net8.0/RealTimeFileManagement.dll
+/home/as_abrorov/RiderProjects/RealTimeFileManagement/RealTimeFileManagement/bin/Debug/net8.0/RealTimeFileManagement.pdb
+/home/as_abrorov/RiderProjects/RealTimeFileManagement/RealTimeFileManagement/obj/Debug/net8.0/RealTimeFileManagement.GeneratedMSBuildEditorConfig.editorconfig
+/home/as_abrorov/RiderProjects/RealTimeFileManagement/RealTimeFileManagement/obj/Debug/net8.0/RealTimeFileManagement.AssemblyInfoInputs.cache
+/home/as_abrorov/RiderProjects/RealTimeFileManagement/RealTimeFileManagement/obj/Debug/net8.0/RealTimeFileManagement.AssemblyInfo.cs
+/home/as_abrorov/RiderProjects/RealTimeFileManagement/RealTimeFileManagement/obj/Debug/net8.0/RealTimeFileManagement.csproj.CoreCompileInputs.cache
+/home/as_abrorov/RiderProjects/RealTimeFileManagement/RealTimeFileManagement/obj/Debug/net8.0/RealTimeFileManagement.sourcelink.json
+/home/as_abrorov/RiderProjects/RealTimeFileManagement/RealTimeFileManagement/obj/Debug/net8.0/RealTimeFileManagement.dll
+/home/as_abrorov/RiderProjects/RealTimeFileManagement/RealTimeFileManagement/obj/Debug/net8.0/refint/RealTimeFileManagement.dll
+/home/as_abrorov/RiderProjects/RealTimeFileManagement/RealTimeFileManagement/obj/Debug/net8.0/RealTimeFileManagement.pdb
+/home/as_abrorov/RiderProjects/RealTimeFileManagement/RealTimeFileManagement/obj/Debug/net8.0/RealTimeFileManagement.genruntimeconfig.cache
+/home/as_abrorov/RiderProjects/RealTimeFileManagement/RealTimeFileManagement/obj/Debug/net8.0/ref/RealTimeFileManagement.dll
